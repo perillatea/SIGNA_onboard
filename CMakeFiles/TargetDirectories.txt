@@ -1,0 +1,4 @@
+/home/gnss/signa_onboard/CMakeFiles/edit_cache.dir
+/home/gnss/signa_onboard/CMakeFiles/rebuild_cache.dir
+/home/gnss/signa_onboard/CMakeFiles/signa.dir
+/home/gnss/signa_onboard/CMakeFiles/novatel.dir

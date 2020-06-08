@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimt.a  CMakeFiles/imt.dir/src/imt_msg.c.o CMakeFiles/imt.dir/src/oem4.c.o
+/usr/bin/ranlib libimt.a

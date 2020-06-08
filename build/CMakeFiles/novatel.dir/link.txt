@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnovatel.a  CMakeFiles/novatel.dir/src/novatel.cpp.o
+/usr/bin/ranlib libnovatel.a

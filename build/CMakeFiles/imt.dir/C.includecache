@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gnss/novatel/src/imt_msg.c
+imt_msg.h
+/home/gnss/novatel/src/imt_msg.h
+
+/home/gnss/novatel/src/oem4.c
+oem4.h
+/home/gnss/novatel/src/oem4.h
+imt_msg.h
+/home/gnss/novatel/src/imt_msg.h
+stdio.h
+-
+string.h
+-
+

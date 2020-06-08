@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/novatel_example.dir/examples/novatel_example.cpp.o  -o novatel_example -rdynamic libnovatel.a /usr/local/lib/libserial.a -lrt -lboost_system -lboost_filesystem -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread 

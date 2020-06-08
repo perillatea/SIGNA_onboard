@@ -1,0 +1,11 @@
+/home/gnss/novatel/build/CMakeFiles/install.dir
+/home/gnss/novatel/build/CMakeFiles/novatel.dir
+/home/gnss/novatel/build/CMakeFiles/edit_cache.dir
+/home/gnss/novatel/build/CMakeFiles/novatel_read_from_file.dir
+/home/gnss/novatel/build/CMakeFiles/novatel_read_test.dir
+/home/gnss/novatel/build/CMakeFiles/novatel_example.dir
+/home/gnss/novatel/build/CMakeFiles/rebuild_cache.dir
+/home/gnss/novatel/build/CMakeFiles/list_install_components.dir
+/home/gnss/novatel/build/CMakeFiles/install/strip.dir
+/home/gnss/novatel/build/CMakeFiles/novatel_read_bestutm.dir
+/home/gnss/novatel/build/CMakeFiles/install/local.dir

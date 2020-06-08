@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/novatel_read_from_file.dir/examples/novatel_read_from_file.cpp.o  -o novatel_read_from_file -rdynamic libnovatel.a /usr/local/lib/libserial.a -lrt -lboost_system -lboost_filesystem -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread 

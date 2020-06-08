@@ -1,0 +1,8 @@
+/home/gnss/novatel_dw/serial/build/CMakeFiles/install.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/list_install_components.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/rebuild_cache.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/edit_cache.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/uninstall.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/serial.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/install/local.dir
+/home/gnss/novatel_dw/serial/build/CMakeFiles/install/strip.dir

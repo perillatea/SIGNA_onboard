@@ -1,0 +1,4 @@
+/usr/local/lib/libserial.a
+/usr/local/include/serial/serial.h
+/usr/local/include/serial/v8stdint.h
+/usr/share/cmake-3.5/Modules/Findserial.cmake
